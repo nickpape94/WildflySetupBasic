@@ -154,7 +154,7 @@
     <driver>h2</driver>
     <security>
         <user-name>sa</user-name>
-        <password>sa</password>
+        <password></password>
     </security>
     <validation>
         <background-validation>false</background-validation>
